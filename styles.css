@@ -1,14 +1,23 @@
-* {
+body {
     background-color: #CDDE47;
-    margin: 20px;
 }
-#header {
+
+.margin{
+    margin: 20px
+}
+.headerall {
     font-family: 'Chango', cursive;
-    text-align: center;
+    
     font-size: 60px;
     color: white ;
     -webkit-text-stroke: 1px #CDDE47;
     margin-bottom: 50px;
+}
+.headermain {
+    text-align: center;
+}
+.hpages {
+    text-align: left;
 }
 
 .header2 {
